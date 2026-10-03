@@ -1,1 +1,1 @@
-# Terminal e-Dnevnik
+# T-dnevnik
